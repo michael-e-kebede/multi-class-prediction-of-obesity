@@ -1,6 +1,6 @@
 # Multi-Class Prediction of Obesity Risk
 
-This repository contains Python code for predicting house prices using machine learning techniques. The dataset used for training and testing the model is sourced from the Kaggle competition Multi-Class Prediction of Obesity Risk.]([https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/competitions/playground-series-s4e2)https://www.kaggle.com/competitions/playground-series-s4e2)
+This repository contains Python code for predicting house prices using machine learning techniques. The dataset used for training and testing the model is sourced from the [Kaggle competition Multi-Class Prediction of Obesity Risk.](https://www.kaggle.com/competitions/playground-series-s4e2)
 
 ## Project Structure
 - Main.ipynb: Jupyter Notebook containing the main code for data preprocessing, exploratory data analysis (EDA), and model training.
